@@ -46,8 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/784d0afa-d8c6-4d7d-8681-84e5c851ea37)
-
+x-special/nautilus-clipboard
+copy
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -63,8 +63,10 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
+x-special/nautilus-clipboard
+copy
+file:///home/student/4B6_1%20VLSIDESIGN/R.NITHISHKUMAR%20(212222060167)/EXPERIMENT1/CMOS_inverter_schematic/schematic/thumbnail_128x128.png
 
- ![image](https://github.com/user-attachments/assets/e947dcda-b023-4668-a955-a5faf0949702)
 
 
 iv)	Creating the new test cell view
